@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/carta-poder",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a carta-poder",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/carta-poder.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://impactandlearning.org/es/carta-poder/"
+    },
+    "homepage": "https://impactandlearning.org/es/carta-poder/"
+}
